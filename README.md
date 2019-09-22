@@ -47,3 +47,7 @@ The main target of this project was to collect the heart rate in bpm unit and to
 
 # Conclusion 
 This project is built by taking portability and flexibility issue in mind so that it can be used on the go. The hardware setup is minimal as well as the system automatically connects to the nearest network for the data transfer, which eventually compliments the portability and flexibility.
+
+# License & copyright<br>
+<b>© Md. Masudur Rahman, Riftabin Kabir<br>
+Licensed under the [MIT License](LICENSE)</b>
